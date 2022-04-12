@@ -1,3 +1,11 @@
+# Things to do before running the Quizio
+- #### add mongoDB URI(either local or server) in db-config.js file
+- #### add Your web app's Firebase configuration credentials in .env file
+- #### add these emailJs credentials 'YOUR_SERVICE_ID' , 'YOUR_TEMPLATE_ID', 'YOUR_PUBLIC_KEY' in ContactComponent.js file 
+- #### Build your app then copy paste all the files of public folder in frontend to the public folder of backend
+<br>
+<br>
+
 # Steps to run the Quizio:
 
 -  #### Open a terminal with the path set to the root directory of the project (i.e quiz directory) 
@@ -7,6 +15,8 @@
 - #### After successful installation of all packages
      - #### Then run command *npm start* in the terminal with the path set to the root directory and wait for the Quizio to initiate.
 
+<br>
+<br>
 
 
 # The Commands to interact with the Quizio for attempting the Quiz Via Microphone Module.
