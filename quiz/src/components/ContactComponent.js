@@ -17,7 +17,7 @@ function ContactComponent(props){
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
-    
+    // add the values of your emailJs
         emailjs
           .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
           .then((result) => {
