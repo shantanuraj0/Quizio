@@ -24,9 +24,10 @@
 #background-img{
 	display: flex;
 	flex-direction: column;
-	height: 100vh;
+	height: 125vh;
 	width: 200vh;
-	background-image: url("https://blog.vanhack.com/wp-content/uploads/2020/04/undraw_remotely_2j6y-39176_1080x675.png");
+	background-image: url("img.png");
+	
 	background-repeat: no-repeat, repeat;
 }
 
