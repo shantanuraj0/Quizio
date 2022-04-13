@@ -30,4 +30,4 @@
    ##### Repeat Question [Number]: &emsp;&emsp;&emsp; To listen a specific Question.
    ##### Repeat Current Question: &emsp;&emsp;&emsp;&emsp; To repeat the current Question.
    ##### submit quiz: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; To end the quiz.
-<h3 align="center">Made With :heart:</h3>
+
