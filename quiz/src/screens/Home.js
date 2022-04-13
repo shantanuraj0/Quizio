@@ -48,24 +48,8 @@ const Home = ({ setUser }) => {
 
 				<div id='Home'>
 
-					<div id='background-img'>
-						
-					</div>
 
-
-					<div id='login-card'>
-						<label className='login-label'>
-							<b>Q</b>
-						</label>
-						<StyledFirebaseAuth
-							borderRadius='40px'
-							uiConfig={uiConfig}
-							firebaseAuth={firebase.auth()}
-						/>
-					</div>
-
-
-					<div id='logo'>
+<div id='logo'>
 						<div id='logo-name'>
 							<b>Quizio</b>
 						</div>
@@ -91,6 +75,25 @@ const Home = ({ setUser }) => {
 
 					</div>
 
+					
+
+
+					<div id='login-card'>
+						<label className='login-label'>
+							<b>Q</b>
+						</label>
+						<StyledFirebaseAuth
+							borderRadius='40px'
+							uiConfig={uiConfig}
+							firebaseAuth={firebase.auth()}
+						/>
+					</div>
+
+
+					
+					<div id='background-img'>
+						
+					</div>
 
 
 					
