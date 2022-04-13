@@ -25,7 +25,8 @@
 	display: flex;
 	flex-direction: column;
 	height: 125vh;
-	width: 200vh;
+	width: 240vh;
+	margin-top: 0px;
 	background-image: url("img.png");
 	
 	background-repeat: no-repeat, repeat;
@@ -71,8 +72,9 @@
 }
 #login-card {
 	/* flex-grow: 2; */
-	align-self: flex-end ;
+	align-self: flex-end;
 	margin: 50px;
+	margin-bottom: 0px;
 	display: flex;
 	flex-direction: column;
 	background-color: rgb(0 0 0 / 57%);
@@ -81,6 +83,7 @@
 	transition: 0.3s;
 	border-radius: 20px;
 	padding-bottom: 50px;
+	margin-right: 60px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 #login-card:hover {
@@ -92,8 +95,6 @@
 	font-size: 100px;
 	
 }
-
-
 
 
 
@@ -178,12 +179,13 @@
 
 
 #contact{
+	margin: 30px;
 	display: flex;
 	flex-direction: column;
 	align-self:flex-end;
 	width : 40%;
 	height: 40%;
-	padding-right: 30px;
+	padding-right: 25px;
 	padding-top: 10px;
   }
 
