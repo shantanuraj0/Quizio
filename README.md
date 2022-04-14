@@ -2,7 +2,7 @@
 - #### add mongoDB URI(either local or server) in db-config.js file
 - #### add Your web app's Firebase configuration credentials in .env file
 - #### add these emailJs credentials 'YOUR_SERVICE_ID' , 'YOUR_TEMPLATE_ID', 'YOUR_PUBLIC_KEY' in ContactComponent.js file 
-- #### Build your app then copy paste all the files of public folder in frontend to the public folder of backend
+
 <br>
 <br>
 
