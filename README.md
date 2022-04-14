@@ -41,3 +41,12 @@
 - #### Data Flow Diagram : [Pdf Link](https://drive.google.com/file/d/1B699xwXQUtphog503v5L32Y8wfIzT9PW/view?usp=sharing)
 - #### Use Case Diagram : [Pdf Link](https://drive.google.com/file/d/10Lu-IoP6BdQ4diMesQLAB1FXbCU5Mnzs/view?usp=sharing)
 
+<br>
+<br>
+
+
+# Contributors
+- #### Richa Singh : 1901157
+- #### Solina Basak: 1901198
+- #### Shivi Gupta : 1901190
+- #### Shantanu Raj : 1901183
