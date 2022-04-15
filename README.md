@@ -1,3 +1,8 @@
+![](Quizio.png)
+
+<br>
+<br>
+
 # Things to do before running the Quizio
 - #### add mongoDB URI(either local or server) in db-config.js file
 - #### add Your web app's Firebase configuration credentials in .env file
