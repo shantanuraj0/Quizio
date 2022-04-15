@@ -49,8 +49,6 @@
 - #### Data Flow Diagram : [Pdf Link](https://drive.google.com/file/d/1B699xwXQUtphog503v5L32Y8wfIzT9PW/view?usp=sharing)
 - #### Use Case Diagram : [Pdf Link](https://drive.google.com/file/d/10Lu-IoP6BdQ4diMesQLAB1FXbCU5Mnzs/view?usp=sharing)
 - #### Testing Report : [Pdf Link](https://drive.google.com/file/d/1puGawjUtFN9vdchThQ5OIVqqvPMfyHB6/view?usp=sharing)
-- #### Group Presentation : [Pdf Link](https://drive.google.com/file/d/10Lu-IoP6BdQ4diMesQLAB1FXbCU5Mnzs/view?usp=sharing)
-
 
 <br>
 <br>
