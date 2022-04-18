@@ -49,6 +49,7 @@
 - #### Data Flow Diagram : [Pdf Link](https://drive.google.com/file/d/1B699xwXQUtphog503v5L32Y8wfIzT9PW/view?usp=sharing)
 - #### Use Case Diagram : [Pdf Link](https://drive.google.com/file/d/10Lu-IoP6BdQ4diMesQLAB1FXbCU5Mnzs/view?usp=sharing)
 - #### Testing Report : [Pdf Link](https://drive.google.com/file/d/1puGawjUtFN9vdchThQ5OIVqqvPMfyHB6/view?usp=sharing)
+- #### PPT : [Pdf Link](https://docs.google.com/presentation/d/1vEz_ZfV7co0TawHrJ7OFwdUARpzL8Mul/edit?usp=sharing&ouid=105928336402650505502&rtpof=true&sd=true)
 
 <br>
 <br>
@@ -59,3 +60,35 @@
 - #### Solina Basak: 1901198
 - #### Shivi Gupta : 1901190
 - #### Shantanu Raj : 1901183
+
+<br>
+<br>
+
+# Contributions
+- ### Richa Singh(1901157) :
+     - #### SRS Documentation
+     - #### Data Flow Diagram & Use Case Diagram
+     - #### Implementation ( AttemptQuiz.js , EvaluateQuiz.js,  Quizzes.js , DB.js, App.js )
+     - #### Integration testing
+
+- ### Solina Basak (1901198) :
+     - #### SRS Documentation
+     - #### Data Flow Diagram & Use Case Diagram
+     - #### Implementation ( Home.js, OneTimeDashboard.js, UserDashboard.js, CreateQuiz.js, App.js )
+     - #### System testing
+
+- ### Shivi Gupta(1901190) :
+     - #### SRS Documentation
+     - #### Data Flow Diagram & Use Case Diagram
+     - #### Implementation ( JoinQuiz.js,  NotFoundPage.js, LoadingScreen.js, AttemptedModal.js, CreatedSuccessfully.js )
+     - #### System testing
+     
+- #### Shantanu Raj(190183) :
+     - #### SRS Documentation
+     - #### Data Flow Diagram & Use Case Diagram
+     - #### Implementation (AttemptedBlindQuiz.js,  firebase.js, Users.js, DB.js, Responses.js, App.js )
+     - #### Integration testing
+
+
+    
+
