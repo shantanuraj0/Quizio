@@ -64,30 +64,6 @@
 <br>
 <br>
 
-# Contributions
-- ### Richa Singh(1901157) :
-     - #### SRS Documentation
-     - #### Data Flow Diagram & Use Case Diagram
-     - #### Implementation ( AttemptQuiz.js , EvaluateQuiz.js,  Quizzes.js , DB.js, App.js )
-     - #### Integration testing
-
-- ### Solina Basak (1901198) :
-     - #### SRS Documentation
-     - #### Data Flow Diagram & Use Case Diagram
-     - #### Implementation ( Home.js, OneTimeDashboard.js, UserDashboard.js, CreateQuiz.js, App.js )
-     - #### System testing
-
-- ### Shivi Gupta(1901190) :
-     - #### SRS Documentation
-     - #### Data Flow Diagram & Use Case Diagram
-     - #### Implementation ( JoinQuiz.js,  NotFoundPage.js, LoadingScreen.js, AttemptedModal.js, CreatedSuccessfully.js )
-     - #### System testing
-     
-- #### Shantanu Raj(1901183) :
-     - #### SRS Documentation
-     - #### Data Flow Diagram & Use Case Diagram
-     - #### Implementation (AttemptedBlindQuiz.js,  firebase.js, Users.js, DB.js, Responses.js, App.js )
-     - #### Integration testing
 
 
     
